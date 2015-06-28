@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Whisle Call Answer/bin/dexedLibs/android-support-v4-bf5bc3af7b31a8a14d82b78525e2026e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Whisle Call Answer/bin/dexedLibs/musicg-1.4.2.0-cddbeba0a7abf26406d7a63b8915a3ad.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Whisle Call Answer/bin/dexedLibs/android-support-v4-17629032ee6c7d84678b62350b4adfc9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Whisle Call Answer/bin/dexedLibs/musicg-1.4.2.0-f57d8a22838173c51e8e52e7a8b8e53b.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
